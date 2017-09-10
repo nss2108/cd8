@@ -1,3 +1,1 @@
-# cd8
-Demographic insights
-a brief analysis and exploration of the data in the five counties that make up cd8, drawn from 2010 census data, 2016 vote totals, and the Voter Registration Database, which I use as a representative sample of the electorate. These files are primarily descriptive. 
+This is a dataset that I built and analyzed for WA-8, a congressional district in suburban and rural Washington. I did this work for the WA-8 CD Alliance, who were trying to look for precincts to target. I am still fine tuning the modeling, but I am working on a classifier that can distinguish the characteristics that make a precinct a Democratic or a Republican precinct, and attempt to predict the factors involved in the total vote margin (in one way or another), as the extent of a win matters here significantly. This will also be a contested race in 2018, although the incumbent Congressman Dave Reichert has recently announced that he will not run for office again. 
